@@ -70,7 +70,7 @@ export default () => {
     },
     {
       imageSrc:
-        "https://images.unsplash.com/photo-1584200186925-87fa8f93be9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=768&q=80",
+        "https://miro.medium.com/v2/resize:fit:720/format:webp/1*et6Sz7mkBTcMRzbfCQW2ag.png",
       type: "Cruise",
       pricePerDay: "$169",
       title:

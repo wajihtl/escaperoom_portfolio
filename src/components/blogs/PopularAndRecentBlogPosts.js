@@ -73,12 +73,11 @@ export default () => {
     },
     {
       postImageSrc:
-        "https://images.unsplash.com/photo-1563784462041-5f97ac9523dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=640&q=80",
+        "https://miro.medium.com/v2/resize:fit:720/format:webp/1*wueixcHIQCMz4WVYOUJnpA.png",
       authorImageSrc:
         "https://media.licdn.com/dms/image/C4D03AQFpkulsc36PAQ/profile-displayphoto-shrink_200_200/0/1635616460038?e=1683158400&v=beta&t=RsEps5e_auQZHu9_BtuVwqOzqLEeJF-WQ09QTVmpV1c",
-      title: "Capture the Flag — CTF",
-      description:
-        "CTF’s (capture the flag) are security/hacking competitions which consist of participants attacking, information gathering, reverse engineering, exploiting and priv-escaltion to reach the end goal, a “flag” which is usually found as a string of text.",
+      title: "Hashing in Action: Understanding bcrypt",
+      description:"The bcrypt hashing function allows us to build a password security platform that scales with computation power and always hashes every password with a salt.",
       authorName: "Achraf Jday",
       authorProfile: "An entrepreneur and leader of tech communities",
       url: "https://reddit.com",
